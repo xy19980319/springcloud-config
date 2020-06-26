@@ -47,6 +47,11 @@
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.importing" />
   </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Ideaworkspace\springcloud-config" />
+    </key>
+  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
